@@ -13,11 +13,6 @@ Website content will be extracted from the company's PDF portofolio [BetaMax - P
 - Portfolio: Listing of projects with filters.
 - Project page: A page for each project's information.
 
-## Todos
-
-- [ ] @ogawish: Portfolio Page implementation
-- [ ] @kagawish: Project Page implementation
-
 ## Inspiration
 
 - <https://www.wwglass.com/>
